@@ -1,1 +1,1 @@
-# MTZ project 
+# bootstrap dashboard
